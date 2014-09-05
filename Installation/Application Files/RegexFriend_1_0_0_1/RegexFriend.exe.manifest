@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="RegexFriend.exe" version="1.0.0.1" publicKeyToken="d6ca30b881cb5801" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Ziggy19-Yosemite-Adobe-Cc-Dark-Adobe-Edge-Code.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RegexFriend" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="RegexFriend.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RegexFriend.exe" size="428032">
+      <assemblyIdentity name="RegexFriend" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CKX8gFHanItoErdrHQTW429wdYJNZWclY1X2Iztbies=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="RegexFriend.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Ziggy19-Yosemite-Adobe-Cc-Dark-Adobe-Edge-Code.ico" size="204395">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8pQwkrEs8QmQvEM4NAMRXVpvcTmxQL9Gdbrex5/WgSA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JAmes-PC\JAmes" issuerKeyHash="476111ccd6e72bc1b0055afaf644a92b623fd4d0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+23Rkzgz/AfYOfvUOwIWzsW7MgJm/zI8ftxOzwz78iw=</DigestValue></Reference></SignedInfo><SignatureValue>secwtBZ3ctWN8k4TX4OPLCIOQjWQtG1wi0OBDslK0rJBFtR0wHyzqtudCWevm/3dvPbEOwmyNVxpMfMxIH2biFl+1xz9jo1xrN/oB2rbOj0/lE6KgrKO+7zAmNPCNbfAZw+nYmUs1oG7Pk2IfKjMbshH/MBINcPV0ZkBF+aA1xc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>090Kkey4fF8oZ8p3Ovz2H026QRLinSoN7AMfRcPetZpKBFa4MmftWtixIR1JPD9d5GNQtM9QlwBuTObRfOZsEao46gmxMZGm5gCypP3wJyRQqI1zf9UneJC8/PmuJgLRAa8wDn6cD3KaUzbcGlEJSTIwEA8K8S44YlpRw8r4wv8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2cf2fb0ccf4edc7e3c32ff660232bbc5ce16023bd4fb39d807fc333893d16dfb" Description="" Url=""><as:assemblyIdentity name="RegexFriend.exe" version="1.0.0.1" publicKeyToken="d6ca30b881cb5801" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JAmes-PC\JAmes</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>USrpmMQqY/rK0HzdzDaSvfgEQz0ziDiaSLJvLlBPmKY=</DigestValue></Reference></SignedInfo><SignatureValue>WS1S9uf6wyBh0jnRIUCSop625lRfFnpBOwLSa/qjIXyXP/qFjzIO+CZRJj2I/EhRe7JyYRbFecJraRBf7CRma7d8Njwwf2B5RSWWTge2GPiGAv5oI6UktmT/eS/f0URuVwVF/Ard7V7dB6TGTN+SFrV1VFs2jPx2I5o8/j65sZk=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>090Kkey4fF8oZ8p3Ovz2H026QRLinSoN7AMfRcPetZpKBFa4MmftWtixIR1JPD9d5GNQtM9QlwBuTObRfOZsEao46gmxMZGm5gCypP3wJyRQqI1zf9UneJC8/PmuJgLRAa8wDn6cD3KaUzbcGlEJSTIwEA8K8S44YlpRw8r4wv8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQJKRTNZwFooBM/jn4bDHf3DANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwASgBBAG0AZQBzAC0AUABDAFwASgBBAG0AZQBzMB4XDTE0MDkwNDA5MDg0MloXDTE1MDkwNDE1MDg0MlowJzElMCMGA1UEAx4cAEoAQQBtAGUAcwAtAFAAQwBcAEoAQQBtAGUAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA090Kkey4fF8oZ8p3Ovz2H026QRLinSoN7AMfRcPetZpKBFa4MmftWtixIR1JPD9d5GNQtM9QlwBuTObRfOZsEao46gmxMZGm5gCypP3wJyRQqI1zf9UneJC8/PmuJgLRAa8wDn6cD3KaUzbcGlEJSTIwEA8K8S44YlpRw8r4wv8CAwEAATANBgkqhkiG9w0BAQsFAAOBgQBjov4zemADTOPflSHXMh3Kj3wlntJhZXC93NjNIMQcq7iSbljpVwj4q4XPL3MB7ma0wh0fjNnMYE4ofWUtAyYq2AhpU7nA2smBN0acmXHeRcIDg6xJHnzs5Tgl2SClg3v+ZMkfCc75mOMEDgASRpfNd1bBBDix0wjtA401tsykUw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

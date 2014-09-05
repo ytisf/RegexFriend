@@ -1,0 +1,40 @@
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\appMain.csprojResolveAssemblyReference.cache
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RegexFriend.Properties.Resources.resources
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\appMain.csproj.GenerateResource.Cache
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RegexFriend.exe.config
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RegexFriend.exe
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RegexFriend.pdb
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RegexFriend.exe
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RegexFriend.pdb
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RegexFriend.exe.manifest
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RegexFriend.application
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RegexFriend.exe.manifest
+C:\Users\JAmes\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RegexFriend.application
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\bin\Debug\RegexFriend.exe.config
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\RegexFriend.exe
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\RegexFriend.pdb
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\bin\Debug\RegexFriend.exe.manifest
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\bin\Debug\RegexFriend.application
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\bin\Debug\RegexFriend.exe
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\bin\Debug\RegexFriend.pdb
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\appMain.csprojResolveAssemblyReference.cache
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\RegexFriend.Properties.Resources.resources
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\appMain.csproj.GenerateResource.Cache
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\RegexFriend.exe.manifest
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\RegexFriend\obj\Debug\RegexFriend.application
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\bin\Debug\RegexFriend.exe.config
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\RegexFriend.exe
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\RegexFriend.pdb
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\bin\Debug\RegexFriend.exe.manifest
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\bin\Debug\RegexFriend.application
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\bin\Debug\RegexFriend.exe
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\bin\Debug\RegexFriend.pdb
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\appMain.csprojResolveAssemblyReference.cache
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\RegexFriend.Properties.Resources.resources
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\appMain.csproj.GenerateResource.Cache
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\RegexFriend.exe.manifest
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\RegexFriend.application
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\RegexFriend.frmCheatSheet.resources
+C:\Users\JAmes\Dropbox\Mori.R.T\OpenSource\Codes\RegexFriend\Source\obj\Debug\RegexFriend.frmMain.resources
