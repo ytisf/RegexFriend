@@ -1,0 +1,3 @@
+#Regex Friend
+
+Nothing much to say. Just run it and you can import data and then build your regexs. It has some regexs build into it and no documentation what-so-ever...
